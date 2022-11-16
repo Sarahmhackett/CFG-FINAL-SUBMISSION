@@ -1023,7 +1023,7 @@ input[type=submit]:hover {
 
   .img-container {
     min-height: 300px;
-    background-image: url(IMG/image3.jpg);
+/*     background-image: url(IMG/image3.jpg); */
     background-repeat: no-repeat;
     background-size: 1420px 580px;
     background-position: center;
